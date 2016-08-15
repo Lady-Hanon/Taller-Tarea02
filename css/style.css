@@ -1,0 +1,16 @@
+body {
+ 	background-color: yellow;
+ }
+
+#container {
+	width: 70%;
+	margin-left: 0 auto;
+	margin-right: 0 auto;
+}
+
+.formato { color: red; }
+
+ol{
+	font-family: georgia;
+	font-size: 18px;
+}
